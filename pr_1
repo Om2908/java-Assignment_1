@@ -1,0 +1,41 @@
+➔Object Oriented Programming :
+Object-Oriented Programming is a methodology or paradigm to design a program using 
+classes and objects. It simplifies the software development and maintenance by 
+providing some concepts:
+● Object
+● Class 
+● Inheritance 
+● Polymorphism 
+● Abstraction 
+● Encapsulation
+→ JDK : 
+JDK is an acronym for Java Development Kit. It physically exists. It contains JRE +
+development tools.
+→JRE : 
+JRE is an acronym for Java Runtime Environment. It is used to provide runtime 
+environment. It is the implementation of JVM. It phy Implementations of JVMs are also 
+actively released by other companies besides Sun 
+Micro Systems.
+➔ JVM :
+JVM (Java Virtual Machine) is an abstract machine. It is a specification that provides 
+runtime
+environment in which java bytecode can be executed.
+JVMs are available for many hardware and software platforms. JVM, JRE and JDK are 
+platform
+dependent because configuration of each OS differs. But, Java is platform independent. 
+The JVM
+performs following main tasks:
+● Loads code
+● Verifies code
+● Executes code
+● Provides runtime environment 
+→JAVADOC :
+Javadoc is a documentation generator tool. We need to use Javadoc comments 
+in our source code to create descriptive and easy-to-understand documentation. 
+Javadoc provides us inbuilt tags which we can use to specify certain properties 
+about our code.
+→ command line argument : 
+In the command line, the arguments passed from the console can be received in the 
+java program and they can be used as input. The users can pass the arguments 
+during the execution bypassing the command-line arguments inside the main() 
+method.
