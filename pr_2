@@ -1,0 +1,18 @@
+public class c_p2 {
+static String startOz(String str) {
+if (str.startsWith("oz"))
+return "oz";
+else if (str.startsWith("o"))
+return "o";
+else if (str.startsWith("z", 1))
+return "z";
+else
+return "";
+}
+public static void main(String[] args)
+{
+String s;
+s=startOz("qzewrsdf");
+System.out.println(s);
+}
+}
